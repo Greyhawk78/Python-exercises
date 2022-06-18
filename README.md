@@ -1,1 +1,3 @@
 # Python-exercises
+
+Loan calculator
